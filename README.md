@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aynation
+- 👋 Hi, I’m Ayomide
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate with different Teams on more Projects
